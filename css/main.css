@@ -1,0 +1,15 @@
+nav .brand-logo{
+  padding: 10px;
+}
+
+.btn-floating i{
+  background: yellowgreen;
+}
+
+h4{
+  display: inline;
+}
+
+.modal .modal-close{
+  float: right;
+}
