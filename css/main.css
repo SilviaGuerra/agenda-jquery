@@ -6,6 +6,10 @@ nav .brand-logo{
   background: yellowgreen;
 }
 
+.modal{
+  max-height: 84%;
+}
+
 h4{
   display: inline;
 }
